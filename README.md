@@ -7,4 +7,5 @@
 2. Luhn's Algorithm
    - Implemented Luhn's Algorithm for verifying credit card numbers
 3. Expense Tracker
-   - Implemented an Expense Tracker by exploring the power of Lambda Functions by creating an expense tracker.
+   - Implemented an Expense Tracker by exploring the power of Lambda Functions.
+4.
