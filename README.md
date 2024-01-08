@@ -17,3 +17,5 @@
    - Learnt how to import modules from the Python standard library by using Regular Expressions to build my own password generator program.
 6. Shortest Path Algorithm:
    - Implemented the Shortest Path Algorithm on a graph using list and dictionary comprehension.
+7. Tower of Hanoi
+   - Solved the famous Tower of Hanoi problem using recursion.
