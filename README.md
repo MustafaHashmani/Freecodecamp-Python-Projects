@@ -19,3 +19,5 @@
    - Implemented the Shortest Path Algorithm on a graph using list and dictionary comprehension.
 7. Tower of Hanoi
    - Solved the famous Tower of Hanoi problem using recursion.
+8. Merge Sort
+   -Implemented The Merge Sort Algorithm which is a sorting algorithm based on the divide and conquer principle using recursion.
