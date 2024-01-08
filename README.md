@@ -13,4 +13,6 @@
    - The project has two phases: first I used a for loop to implement
      the program. Then I used List Comprehension instead of a loop to
      achieve the same results.
-5.
+5. Password Generator
+   - learnt how to import modules from the Python standard library by using Regular Expressions to build my own password generator program.
+6.
