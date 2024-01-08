@@ -14,5 +14,6 @@
      the program. Then I used List Comprehension instead of a loop to
      achieve the same results.
 5. Password Generator
-   - learnt how to import modules from the Python standard library by using Regular Expressions to build my own password generator program.
-6.
+   - Learnt how to import modules from the Python standard library by using Regular Expressions to build my own password generator program.
+6. Shortest Path Algorithm:
+   - Implemented the Shortest Path Algorithm on a graph using list and dictionary comprehension.
