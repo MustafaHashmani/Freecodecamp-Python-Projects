@@ -1,6 +1,6 @@
 # Freecodecamp-Python-Projects
 
-# Projects
+## Projects
 
 1. Cipher
    - Implemented a Caesar Cipher program for both encryption and decryption using a key
@@ -21,3 +21,5 @@
    - Solved the famous Tower of Hanoi problem using recursion.
 8. Merge Sort
    -Implemented The Merge Sort Algorithm which is a sorting algorithm based on the divide and conquer principle using recursion.
+9. Sudoku Solver
+   - learnt how to use classes and objects to build a Sudoku grid and solve a Sudoku puzzle.
