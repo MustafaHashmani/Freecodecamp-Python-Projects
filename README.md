@@ -20,6 +20,8 @@
 7. Tower of Hanoi
    - Solved the famous Tower of Hanoi problem using recursion.
 8. Merge Sort
-   -Implemented The Merge Sort Algorithm which is a sorting algorithm based on the divide and conquer principle using recursion.
+   - Implemented The Merge Sort Algorithm which is a sorting algorithm based on the divide and conquer principle using recursion.
 9. Sudoku Solver
    - learnt how to use classes and objects to build a Sudoku grid and solve a Sudoku puzzle.
+10. Binary Search Tree
+    - learnt how to construct my own BST and perform an in-order traversal by performing key operations like insertion, search, and deletion.
